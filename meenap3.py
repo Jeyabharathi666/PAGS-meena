@@ -29,7 +29,7 @@ URL = ["https://chartink.com/screener/copy-copy-copy-sreelakshmi-guruvayoorappan
        "https://chartink.com/screener/agp-bullish2",
        "https://chartink.com/screener/copy-atp-above-long-24"]
        
-sheet_id = "1bKrdupQL1LXAOXwmM1YsoN3xoGiMfS7pgzTkQFC3cjw"
+sheet_id = "1ahDo4LcPCBHVmkxZWYHLmhgCrsGkr_TOlFFNnRAXpi4"
 worksheet_name = ["p1","p2","p3","p4","p5","p6","p7","p8","p9","p10","p11","p12","p13","p14","p15","p16","p17","p18","p19","p20","p21","p22","p23","p24","p25","p26"]
 
 def scrape_chartink(URL, worksheet_name):
